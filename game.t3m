@@ -1,0 +1,9 @@
+# Generic game TADS3 makefile; sources and outputs are defined
+# in Makefile
+
+-D LANGUAGE=en_us
+-D MESSAGESTYLE=neu
+-Fy obj
+-Fo obj
+-lib system
+-lib adv3/adv3

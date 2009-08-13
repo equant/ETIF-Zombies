@@ -1,0 +1,10 @@
+Name: Zombies
+Byline: Equant & Tim
+AuthorEmail: Equant and Tim <zombies@retards.org>
+Desc: Zombies Buying Brides
+Version: 1
+ReleaseDate: 2009-08-11
+Language: en-US
+LicenseType: Freeware
+CopyingRules: Nominal cost only; compilations allowed
+PresentationProfile: Multimedia
